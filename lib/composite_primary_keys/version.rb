@@ -2,8 +2,7 @@ module CompositePrimaryKeys
   module VERSION #:nodoc:
     MAJOR = 2
     MINOR = 3
-    TINY  = 5
-    PATCH = 1
-    STRING = [MAJOR, MINOR, TINY, PATCH].join('.')
+    TINY  = 6
+    STRING = [MAJOR, MINOR, TINY].join('.')
   end
 end
